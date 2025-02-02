@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I'm currently working on exciting software projects using Java and Spring Boot.<br>👯 I'm looking to collaborate on open-source projects or innovative software solutions.<br>🤔 I'm looking for help with mastering advanced design patterns and distributed systems.<br>🌱 I'm currently learning more about cloud-native technologies (Kubernetes, Docker) and reactive programming.<br>💬 Ask me about Java, Spring Boot, backend development, or software engineering best practices.<br>⚡ Fun fact: I once wrote a program that could predict the weather with surprising accuracy (just kidding... mostly).
+I'm a Java and Spring Boot developer with experience building backend systems, and I've also worked on the frontend with React.js.  I'm always interested in collaborating on interesting projects, particularly those with challenging technical aspects.  My current focus is on deepening my understanding of distributed systems and advanced design patterns.  I'm also exploring cloud-native technologies like Kubernetes and Docker, as well as reactive programming.  Happy to discuss Java, Spring Boot, React, backend development, frontend development, and general software engineering best practices
 
 
 # 💻 Tech Stack:
