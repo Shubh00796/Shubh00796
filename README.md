@@ -2,6 +2,7 @@
 I'm a Java and Spring Boot developer with experience building backend systems, and I've also worked on the frontend with React.js. I'm always interested in collaborating on interesting projects, particularly those with challenging technical aspects. My current focus is on deepening my understanding of distributed systems and advanced design patterns. I'm also exploring cloud-native technologies like Kubernetes and Docker, as well as reactive programming. Happy to discuss Java, Spring Boot, React, backend development, frontend development, and general software engineering best practices
 
 
+
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s_h_u_b_h_0_0_7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamdongare9696@gmail.com) 
 
@@ -12,4 +13,3 @@ I'm a Java and Spring Boot developer with experience building backend systems, a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SHUBH00796&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBH00796&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
