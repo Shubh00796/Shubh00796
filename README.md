@@ -16,13 +16,15 @@ On the frontend, I’ve worked with **React.js** to build dynamic, responsive UI
 # 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
+|---------|-------------|------------|
+| **Multi-tenant SaaS Project Management System** | A multi-tenant SaaS project management platform that allows multiple organizations to manage their projects, tasks, and teams within isolated environments. Each tenant has complete data isolation, custom configurations, and dynamic schema capabilities. | Java, Spring Boot, PostgreSQL, Multi-tenancy, DTO mappers, Clean Architecture |
 | **Inventory Management System** | Enterprise-grade inventory management tool with bulk uploads, audit logs, stock alerts, and advanced search | Java, Spring Boot, PostgreSQL, Flyway, MapStruct, Swagger, AOP |
 | **Resource Management System** | Streamlines internal resource allocation, project staffing, and bench management for IT firms | Java, Spring Boot, MySQL, REST APIs, Clean Architecture |
 | **Blog Application** | Scalable blogging platform supporting JWT auth, markdown posts, tagging, and comment threads | Spring Boot, MongoDB, JWT, React, REST API |
 | **Food Waste Management System** | Purpose-driven platform to redistribute excess food to NGOs with tracking, real-time notifications, and reporting | Spring Boot, Redis, PostgreSQL, Clean Arch, DTO mappers |
 | **Sports Field Management System** | Handles ground availability, slot booking, payment integration, and dashboard for field owners | Java, Spring Boot, PostgreSQL, JWT, Spring Security |
 | **Hugging Face Wrappers** | Created custom Java-based wrappers to integrate Hugging Face NLP APIs (summarization, translation, sentiment analysis) with production-ready endpoints | Java 17, WebClient, Spring Boot, Clean Architecture, Swagger UI |
+
 
 ---
 
