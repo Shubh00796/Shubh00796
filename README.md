@@ -1,30 +1,35 @@
 # 💫 About Me
-I'm a **Java & Spring Boot Developer** with 2+ years of hands-on experience building scalable backend systems. I specialize in designing RESTful APIs, working with microservices, and integrating cloud-native technologies like **Docker, Redis, Kafka**, and **PostgreSQL**.
 
-On the frontend, I’ve worked with **React.js** to build dynamic, responsive UIs. I write production-quality code following **SOLID**, **KISS**, **DRY**, and **Separation of Concerns** principles. I’m currently deepening my understanding of **distributed systems**, **Reactive programming**, and **DevOps tooling** like Prometheus and container orchestration.
+I'm a **Java & Spring Boot Backend Developer** with 3+ years of experience designing scalable, secure, and modular systems. I specialize in:
+
+- 🧩 **Modular Monoliths & Multi-Tenant SaaS** platforms
+- 🔐 **Clean Architecture**, RBAC, audit trails, and dynamic schema orchestration
+- ⚙️ RESTful APIs, Kafka-based event-driven systems, Redis caching, and Dockerized deployments
+- 📊 Building production-grade platforms for inventory, resource management, financial processing, and sports facility operations
+
+I write maintainable, extensible code following **SOLID**, **KISS**, and **Separation of Concerns** principles. Currently exploring **Reactive programming**, **container orchestration**, and **DevOps tooling** like Prometheus.
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s_h_u_b_h_0_0_7)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamdongare9696@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dongare-b39b07194)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamdongare9696@gmail.com)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s_h_u_b_h_0_0_7)
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Multi-tenant SaaS Project Management System** | A multi-tenant SaaS project management platform that allows multiple organizations to manage their projects, tasks, and teams within isolated environments. Each tenant has complete data isolation, custom configurations, and dynamic schema capabilities. | Java, Spring Boot, PostgreSQL, Multi-tenancy, DTO mappers, Clean Architecture |
-| **Inventory Management System** | Enterprise-grade inventory management tool with bulk uploads, audit logs, stock alerts, and advanced search | Java, Spring Boot, PostgreSQL, Flyway, MapStruct, Swagger, AOP |
-| **Resource Management System** | Streamlines internal resource allocation, project staffing, and bench management for IT firms | Java, Spring Boot, MySQL, REST APIs, Clean Architecture |
-| **Blog Application** | Scalable blogging platform supporting JWT auth, markdown posts, tagging, and comment threads | Spring Boot, MongoDB, JWT, React, REST API |
-| **Food Waste Management System** | Purpose-driven platform to redistribute excess food to NGOs with tracking, real-time notifications, and reporting | Spring Boot, Redis, PostgreSQL, Clean Arch, DTO mappers |
-| **Sports Field Management System** | Handles ground availability, slot booking, payment integration, and dashboard for field owners | Java, Spring Boot, PostgreSQL, JWT, Spring Security |
-| **Hugging Face Wrappers** | Created custom Java-based wrappers to integrate Hugging Face NLP APIs (summarization, translation, sentiment analysis) with production-ready endpoints | Java 17, WebClient, Spring Boot, Clean Architecture, Swagger UI |
-
+| Project | Description | Tech Stack | GitHub |
+|--------|-------------|------------|--------|
+| **NexuInv: Enterprise Inventory & Order Management** | Microservice for retail and warehouse platforms with dynamic schema, high concurrency, and hot-swappable logic adapters. | Java 17 · Spring Boot 3.x · Redis · Docker · Spring Events · Springdoc · GitHub Actions | [![GitHub](https://img.shields.io/badge/Repo-NexuInv-181717?logo=github)](https://github.com/Shubh00796/NexuInv-Enterprise-Inventory-Order-Management-Microservice) |
+| **TransitFlow: Event-Driven Logistics Platform** | Kafka-powered logistics backend coordinating order-to-delivery workflows with modular services. | Java · Spring Boot · Apache Kafka · Docker · Redis · Springdoc | [![GitHub](https://img.shields.io/badge/Repo-TransitFlow-181717?logo=github)](https://github.com/Shubh00796/TransitFlow-Event-Driven-Logistics-Platform) |
+| **EVENTRA: Incident Orchestration System** | Monolith backend for enterprise incident workflows using DDD and asynchronous event handling. | Java · Spring Boot · Kafka · Clean Architecture · Springdoc | [![GitHub](https://img.shields.io/badge/Repo-EVENTRA-181717?logo=github)](https://github.com/Shubh00796/EVENTRA-ENTERPRICE_INCIDENT_ORCHESTRATION_PLATFORM) |
+| **TenancyLink: Multi-Tenant Project Management** | SaaS backend with full tenant isolation, dynamic schemas, and audit-compliant orchestration. | Java · Spring Boot · PostgreSQL · Multi-tenancy · Modular Monolith · Spring Security | [![GitHub](https://img.shields.io/badge/Repo-TenancyLink-181717?logo=github)](https://github.com/Shubh00796/TenancyLink-Scalable-Multi-Tenant-Project-Management-Backend) |
+| **PayTrack: Financial Transaction Processor** | Backend for high-frequency trading and real-time settlements with secure orchestration. | Java · Spring Boot · Redis · Event-Driven · Docker · Logback · AOP | [![GitHub](https://img.shields.io/badge/Repo-PayTrack-181717?logo=github)](https://github.com/Shubh00796/PayTrack-Financial_Transaction_Processor) |
+| **OrgFlow: Resource & People Management** | Backend for employee allocation, project staffing, and availability tracking. | Java · Spring Boot · REST APIs · Modular Monolith · Docker | [![GitHub](https://img.shields.io/badge/Repo-OrgFlow-181717?logo=github)](https://github.com/Shubh00796/-OrgFlow-Resource-Allocation-People-Management-Backend) |
+| **SurplusShare: Food Redistribution Platform** | Event-driven backend to redistribute surplus food to NGOs with real-time tracking. | Java · Spring Boot · Redis · PostgreSQL · Docker · Springdoc | [![GitHub](https://img.shields.io/badge/Repo-SurplusShare-181717?logo=github)](https://github.com/Shubh00796/SurplusShare-A-Food-Redistribution-Platform-for-Social-Impact) |
 
 ---
 
@@ -35,15 +40,10 @@ On the frontend, I’ve worked with **React.js** to build dynamic, responsive UI
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -55,7 +55,7 @@ On the frontend, I’ve worked with **React.js** to build dynamic, responsive UI
 
 ---
 
-# 📬 Contact Me
+# 📬 Contact
 
 📧 [shubhamdongare9696@gmail.com](mailto:shubhamdongare9696@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-dongare-b39b07194)  
