@@ -2,7 +2,7 @@
 
 I'm a **Java & Spring Boot Backend Developer** with 3+ years of experience designing scalable, secure, and modular systems. I specialize in:
 
-- 🧩 **Modular Monoliths & Multi-Tenant SaaS** platforms
+- 🧩 **Modular Monoliths & Microservices** platforms
 - 🔐 **Clean Architecture**, RBAC, audit trails, and dynamic schema orchestration
 - ⚙️ RESTful APIs, Kafka-based event-driven systems, Redis caching, and Dockerized deployments
 - 📊 Building production-grade platforms for inventory, resource management, financial processing, and sports facility operations
@@ -52,6 +52,8 @@ I write maintainable, extensible code following **SOLID**, **KISS**, and **Separ
 ![](https://github-readme-stats.vercel.app/api?username=SHUBH00796&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SHUBH00796&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBH00796&theme=dark&hide_border=false&layout=compact)
+
+
 
 ---
 
