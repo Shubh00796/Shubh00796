@@ -2,7 +2,7 @@
 
 I'm a **Java & Spring Boot Backend Developer** with 3+ years of experience designing scalable, secure, and modular systems. I specialize in:
 
-- 🧩 **Modular Monoliths & Microservices** platforms
+- 🧩 **Modular Monoliths and Microservices** platforms
 - 🔐 **Clean Architecture**, RBAC, audit trails, and dynamic schema orchestration
 - ⚙️ RESTful APIs, Kafka-based event-driven systems, Redis caching, and Dockerized deployments
 - 📊 Building production-grade platforms for inventory, resource management, financial processing, and sports facility operations
